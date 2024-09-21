@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/dataEngineering/__init__.py
+src/dataEngineering/tp1_utils.py
+src/dataEngineering.egg-info/PKG-INFO
+src/dataEngineering.egg-info/SOURCES.txt
+src/dataEngineering.egg-info/dependency_links.txt
+src/dataEngineering.egg-info/top_level.txt
